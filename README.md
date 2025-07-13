@@ -40,8 +40,8 @@ Advanced:
 - Daily revenue breakdown with growth trends
 
 ## 📂 Files
-- `Pizza_Sales_SQL_Analysis.sql`: Full query set
-- `summary.xlsx`: Excel output (optional)
-- `visuals/`: Screenshots of revenue tables or query results
+- 'Sql_queries': Full query set upto 14 sql file
+- `tables`: csv tables like orders, order_details,pizzas,pizza_type
+
 
 ---
